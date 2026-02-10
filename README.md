@@ -2,7 +2,7 @@
     alt="isaaclal" />
     
 <a href="https://github.com/AKK-soft-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Aung+Ko+Ko;Frontend+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Aung+Ko+Ko;Frontend+Developer" alt="Typing SVG" />
 </a>
 
 ### <picture><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></picture> <b> Skills </b>
